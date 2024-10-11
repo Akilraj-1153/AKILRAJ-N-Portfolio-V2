@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-v3",
+  "name": "portfolio-v2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://github.com/Akilraj-1153/AKILRAJ-N-Portfolio-V2",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@gsap/react": "^2.1.1",
